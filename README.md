@@ -32,10 +32,21 @@ ex. pre-installed, apps, middleware, default database, API keys,and buch of othe
 ```
 #### 6. URLs in django.
 ```
-The routing of a website is determined by its URLs. In the program, 
+When a user visits a given URL route in the browser, the URLs in the urls.py file are compared.
+The user then receives the response for the requested URL after retrieving a corresponding view method.
 ```
-
-
+#### 7. Cookies and sessions in django.
+```
+Cookies and sessions are both essential components in web development for managing user data and maintaining state.
+While cookies are stored on the client-side and are used for tasks such as user identification and preference storage,
+sessions are stored on the server-side and are used for storing more sensitive user data.
+```
+#### 8. Django ORM.
+```
+Object-Relational Mapping (ORM) in Django is a technique that enables developers to interact with
+databases using Python objects instead of SQL queries.
+```
+#### 9. 
 
 
 
