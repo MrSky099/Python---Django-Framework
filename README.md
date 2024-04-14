@@ -46,7 +46,6 @@ sessions are stored on the server-side and are used for storing more sensitive u
 Object-Relational Mapping (ORM) in Django is a technique that enables developers to interact with
 databases using Python objects instead of SQL queries.
 ```
-#### 9. 
 
 
 
